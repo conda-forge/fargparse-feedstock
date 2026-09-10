@@ -12,7 +12,7 @@
 schema_version: 1
 
 context:
-  version: "1.11.0"
+  version: "1.12.0"
 
 package:
   name: fargparse
@@ -20,7 +20,7 @@ package:
 
 source:
   url: https://github.com/Goddard-Fortran-Ecosystem/fArgParse/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 867854b0d312ef22ba3938f5398727973942a31d75f4e1abd3cd9d35f0159691
+  sha256: 171abd64f42503603715721faf0e262209145450ac38edb0bfa9cdb5c06423ef
 
 build:
   number: 0
